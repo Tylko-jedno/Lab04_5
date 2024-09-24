@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04384\\\u041B\u0430\u04314.5\\Lab04_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8910CE4D-9A37-4E83-8823-6C95DA862DF2}|Lab04_5\\Lab04_5.vcxproj|C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04384\\\u041B\u0430\u04314.5\\Lab04_5\\Lab04_5\\Lab04_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8910CE4D-9A37-4E83-8823-6C95DA862DF2}|Lab04_5\\Lab04_5.vcxproj|solutionrelative:Lab04_5\\Lab04_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab04_5.cpp",
+              "DocumentMoniker": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04384\\\u041B\u0430\u04314.5\\Lab04_5\\Lab04_5\\Lab04_5.cpp",
+              "RelativeDocumentMoniker": "Lab04_5\\Lab04_5.cpp",
+              "ToolTip": "C:\\Users\\FurryFob\\Desktop\\\u0410\u041F\\\u041B\u0430\u0431\u04384\\\u041B\u0430\u04314.5\\Lab04_5\\Lab04_5\\Lab04_5.cpp",
+              "RelativeToolTip": "Lab04_5\\Lab04_5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T16:02:34.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
